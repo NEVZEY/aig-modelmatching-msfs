@@ -1368,3 +1368,20 @@ description=DFAI_Phenom300-Marco(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=GA2J
+
+[fltsim.77]
+title=AIGAIM_Vermeer Embraer Phenom 300 - N48VM
+model=GA2J-Vermeer_N48VM
+texture=GA2J-Vermeer_N48VM
+atc_id=N48VM
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Vermeer Embraer Phenom 300 N48VM
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: Vermeer_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J

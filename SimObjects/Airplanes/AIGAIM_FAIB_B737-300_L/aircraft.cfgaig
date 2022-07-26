@@ -1302,6 +1302,60 @@ isUserSelectable=0
 icao_airline=BRH
 
 [fltsim.72]
+title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF
+model=AAH-Aloha Air Cargo_SF
+texture=AAH-Aloha Air Cargo_SF
+atc_id=N301KH
+atc_airline=ALOHA
+atc_parking_types=CARGO,RAMP
+atc_parking_codes=AAH
+ui_manufacturer=FAIB
+ui_type=Boeing 737-300 - SF
+ui_variation=Aloha Air Cargo
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_aah_boeing_733c.zip
+description=FAIB_B737-300-logolight(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AAH
+
+[fltsim.73]
+title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF cargo door bumper
+model=AAH-Aloha Air Cargo_SF cargo door bumper
+texture=AAH-Aloha Air Cargo_SF cargo door bumper
+atc_id=N303KH
+atc_airline=ALOHA
+atc_parking_types=CARGO,RAMP
+atc_parking_codes=AAH
+ui_manufacturer=FAIB
+ui_type=Boeing 737-300 - SF
+ui_variation=Aloha Air Cargo
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_aah_boeing_733c.zip
+description=FAIB_B737-300-logolight(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AAH
+
+[fltsim.74]
+title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF Northern Air Cargo
+model=AAH-Aloha Air Cargo_SF Northern Air Cargo
+texture=AAH-Aloha Air Cargo_SF Northern Air Cargo
+atc_id=N360WA
+atc_airline=ALOHA
+atc_parking_types=CARGO,RAMP
+atc_parking_codes=AAH
+ui_manufacturer=FAIB
+ui_type=Boeing 737-300 - SF
+ui_variation=NAC N360WA
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FAIB Filename: FAIB_B7373NAC.zip
+description=FAIB_B737-300-logolight(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AAH
+
+[fltsim.75]
 title=AIGAIM_China Southern Airlines Boeing 737-300
 model=CSN-China Southern Airlines
 texture=CSN-China Southern Airlines

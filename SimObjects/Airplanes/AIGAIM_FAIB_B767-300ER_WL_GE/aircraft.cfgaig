@@ -994,3 +994,22 @@ description=FAIB_B767-300ER_WL_GE-WGEC(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=MGL
+
+[fltsim.51]
+title=AIGAIM_Aloha Air Cargo Boeing 767-300ER WL - BDSF opb ATN
+model=AAH-Aloha Air Cargo_BDSF opb ATN
+texture=AAH-Aloha Air Cargo_BDSF opb ATN
+atc_id=N399CM
+atc_airline=ALOHA
+atc_heavy=1
+atc_parking_types=CARGO,RAMP
+atc_parking_codes=AAH
+ui_manufacturer=FAIB
+ui_type=Boeing 767-300ER WL
+ui_variation=Aloha Air Cargo opb ATI
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW Filename: faib_b763_atn399cm_p3d.zip
+description=FAIB_B767-300ER_WL_GE-WGEC(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AAH

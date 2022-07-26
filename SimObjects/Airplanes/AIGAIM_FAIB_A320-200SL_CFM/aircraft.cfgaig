@@ -2616,24 +2616,6 @@ isUserSelectable=0
 icao_airline=OTC
 
 [fltsim.144]
-title=AIGAIM_Bamboo Airways Airbus A320-200SL - CFM opb FHY
-model=BAV-Bamboo Airways_CFM opb FHY
-texture=BAV-Bamboo Airways_CFM opb FHY
-atc_id=TC-FHN
-atc_airline=BAMBOO
-atc_parking_types=GATE,RAMP
-atc_parking_codes=BAV
-ui_manufacturer=FAIB
-ui_type=Airbus A320-200SL
-ui_variation=Bamboo Airways
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: FSAI Filename: faib_bav_a320_leases_p3d.zip
-description=FAIB_A320-200SL_CFM-CFM_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=BAV
-
-[fltsim.145]
 title=AIGAIM_Batik Air Airbus A320-200SL
 model=BTK-Batik Air
 texture=BTK-Batik Air
@@ -2651,7 +2633,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=BTK
 
-[fltsim.146]
+[fltsim.145]
 title=AIGAIM_Batik Air Airbus A320-200SL - Small Flag
 model=BTK-Batik Air_Small Flag
 texture=BTK-Batik Air_Small Flag
@@ -2669,7 +2651,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=BTK
 
-[fltsim.147]
+[fltsim.146]
 title=AIGAIM_Batik Air Airbus A320-200SL - Large Flag
 model=BTK-Batik Air_Large Flag
 texture=BTK-Batik Air_Large Flag
@@ -2687,7 +2669,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=BTK
 
-[fltsim.148]
+[fltsim.147]
 title=AIGAIM_Bulgaria Air Airbus A320-200SL - White
 model=LZB-Bulgaria Air_White
 texture=LZB-Bulgaria Air_White
@@ -2705,7 +2687,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LZB
 
-[fltsim.149]
+[fltsim.148]
 title=AIGAIM_Capital Airlines Airbus A320-200SL - CFM Old HNA Logo
 model=CBJ-Capital Airlines_CFM Old HNA Logo
 texture=CBJ-Capital Airlines_CFM Old HNA Logo
@@ -2722,7 +2704,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBJ
 
-[fltsim.150]
+[fltsim.149]
 title=AIGAIM_Capital Airlines Airbus A320-200SL - CFM Old HNA Logo Engine Titles
 model=CBJ-Capital Airlines_CFM Old HNA Logo Engine Titles
 texture=CBJ-Capital Airlines_CFM Old HNA Logo Engine Titles
@@ -2739,7 +2721,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBJ
 
-[fltsim.151]
+[fltsim.150]
 title=AIGAIM_Capital Airlines Airbus A320-200SL - CFM Caissa
 model=CBJ-Capital Airlines_CFM Caissa
 texture=CBJ-Capital Airlines_CFM Caissa
@@ -2756,12 +2738,30 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBJ
 
-[fltsim.152]
+[fltsim.151]
 title=AIGAIM_Cebu Pacific Airbus A320-200SL
 model=CEB-Cebu Pacific
 texture=CEB-Cebu Pacific
 atc_id=RP-C4107
-atc_airline=CEBU AIR
+atc_airline=CEBU
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CEB
+ui_manufacturer=Airbus
+ui_type=Airbus A320-200SL
+ui_variation=Cebu Air, Inc.
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: FAIB A320 Cebu FSX.zip
+description=FAIB_A320-200SL_CFM-CFM_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CEB
+
+[fltsim.152]
+title=AIGAIM_Cebu Pacific Airbus A320-200SL - OC
+model=CEB-Cebu Pacific_OC
+texture=CEB-Cebu Pacific_OC
+atc_id=RP-C3278
+atc_airline=CEBU
 atc_parking_types=GATE,RAMP
 atc_parking_codes=CEB
 ui_manufacturer=Airbus
@@ -2775,24 +2775,6 @@ isUserSelectable=0
 icao_airline=CEB
 
 [fltsim.153]
-title=AIGAIM_Cebu Pacific Airbus A320-200SL - OC
-model=CEB-Cebu Pacific_OC
-texture=CEB-Cebu Pacific_OC
-atc_id=RP-C3278
-atc_airline=CEBU AIR
-atc_parking_types=GATE,RAMP
-atc_parking_codes=CEB
-ui_manufacturer=Airbus
-ui_type=Airbus A320-200SL
-ui_variation=Cebu Air, Inc.
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: FAIB A320 Cebu FSX.zip
-description=FAIB_A320-200SL_CFM-CFM_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=CEB
-
-[fltsim.154]
 title=AIGAIM_Chengdu Airlines Airbus A320-200SL
 model=UEA-Chengdu Airlines
 texture=UEA-Chengdu Airlines
@@ -2810,7 +2792,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=UEA
 
-[fltsim.155]
+[fltsim.154]
 title=AIGAIM_China Eastern Airlines Airbus A320-200SL - CFM
 model=CES-China Eastern Airlines_CFM
 texture=CES-China Eastern Airlines_CFM
@@ -2828,7 +2810,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CES
 
-[fltsim.156]
+[fltsim.155]
 title=AIGAIM_China Eastern Airlines Airbus A320-200SL - CFM - OC Magnificent Qinghai
 model=CES-China Eastern Airlines_CFM - OC Magnificent Qinghai
 texture=CES-China Eastern Airlines_CFM - OC Magnificent Qinghai
@@ -2845,7 +2827,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CES
 
-[fltsim.157]
+[fltsim.156]
 title=AIGAIM_China Southern Airlines Airbus A320-200SL - CFM
 model=CSN-China Southern Airlines_CFM
 texture=CSN-China Southern Airlines_CFM
@@ -2863,7 +2845,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CSN
 
-[fltsim.158]
+[fltsim.157]
 title=AIGAIM_Chongqing Airlines Airbus A320-200SL - Chongqing Times
 model=CQN-Chongqing Airlines_Chongqing Times
 texture=CQN-Chongqing Airlines_Chongqing Times
@@ -2880,7 +2862,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CQN
 
-[fltsim.159]
+[fltsim.158]
 title=AIGAIM_Citilink Airbus A320-200SL
 model=CTV-Citilink
 texture=CTV-Citilink
@@ -2898,7 +2880,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CTV
 
-[fltsim.160]
+[fltsim.159]
 title=AIGAIM_Citilink Airbus A320-200SL - WiFi Dome
 model=CTV-Citilink_WiFi Dome
 texture=CTV-Citilink_WiFi Dome
@@ -2916,7 +2898,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CTV
 
-[fltsim.161]
+[fltsim.160]
 title=AIGAIM_Citilink Airbus A320-200SL - tiket.com
 model=CTV-Citilink_tiket.com
 texture=CTV-Citilink_tiket.com
@@ -2934,7 +2916,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CTV
 
-[fltsim.162]
+[fltsim.161]
 title=AIGAIM_Citilink Airbus A320-200SL - Floral Retro
 model=CTV-Citilink_Floral Retro
 texture=CTV-Citilink_Floral Retro
@@ -2952,7 +2934,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CTV
 
-[fltsim.163]
+[fltsim.162]
 title=AIGAIM_Evelop Airlines Airbus A320-200SL
 model=EVE-Evelop Airlines
 texture=EVE-Evelop Airlines
@@ -2970,7 +2952,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=EVE
 
-[fltsim.164]
+[fltsim.163]
 title=AIGAIM_Flyadeal Airbus A320-200SL
 model=FAD-Flyadeal
 texture=FAD-Flyadeal
@@ -2987,7 +2969,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=FAD
 
-[fltsim.165]
+[fltsim.164]
 title=AIGAIM_Freebird Airlines Airbus A320-200SL - CFM TC-FHN red
 model=FHY-Freebird Airlines_CFM TC-FHN red
 texture=FHY-Freebird Airlines_CFM TC-FHN red
@@ -3004,7 +2986,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=FHY
 
-[fltsim.166]
+[fltsim.165]
 title=AIGAIM_Go First Airbus A320-200SL - OC
 model=GOW-Go First_OC
 texture=GOW-Go First_OC
@@ -3022,7 +3004,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=GOW
 
-[fltsim.167]
+[fltsim.166]
 title=AIGAIM_GX Airlines Airbus A320-200SL
 model=CBG-GX Airlines
 texture=CBG-GX Airlines
@@ -3040,7 +3022,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBG
 
-[fltsim.168]
+[fltsim.167]
 title=AIGAIM_GX Airlines Airbus A320-200SL - Green City NanNing
 model=CBG-GX Airlines_Green City NanNing
 texture=CBG-GX Airlines_Green City NanNing
@@ -3058,7 +3040,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBG
 
-[fltsim.169]
+[fltsim.168]
 title=AIGAIM_GX Airlines Airbus A320-200SL - Transformers
 model=CBG-GX Airlines_Transformers
 texture=CBG-GX Airlines_Transformers
@@ -3076,7 +3058,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CBG
 
-[fltsim.170]
+[fltsim.169]
 title=AIGAIM_Himalaya Airlines Airbus A320-200SL
 model=HIM-Himalaya Airlines
 texture=HIM-Himalaya Airlines
@@ -3094,7 +3076,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=HIM
 
-[fltsim.171]
+[fltsim.170]
 title=AIGAIM_Hong Kong Airlines Airbus A320-200SL - Grey Engines (TEMP)
 model=CRK-Hong Kong Airlines_Grey Engines_temp
 texture=CRK-Hong Kong Airlines_Grey Engines_temp
@@ -3112,7 +3094,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CRK
 
-[fltsim.172]
+[fltsim.171]
 title=AIGAIM_Iberojet Airbus A320-200SL
 model=EVE-Iberojet
 texture=EVE-Iberojet
@@ -3130,7 +3112,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=EVE
 
-[fltsim.173]
+[fltsim.172]
 title=AIGAIM_JC International Airlines Airbus A320-200SL - old titles
 model=JCC-JC International Airlines_old titles
 texture=JCC-JC International Airlines_old titles
@@ -3147,7 +3129,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JCC
 
-[fltsim.174]
+[fltsim.173]
 title=AIGAIM_Juneyao Airlines Airbus A320-200SL
 model=DKH-Juneyao Airlines
 texture=DKH-Juneyao Airlines
@@ -3164,7 +3146,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DKH
 
-[fltsim.175]
+[fltsim.174]
 title=AIGAIM_Longjiang Airlines Airbus A320-200SL
 model=SNG-Longjiang Airlines
 texture=SNG-Longjiang Airlines
@@ -3180,7 +3162,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SNG
 
-[fltsim.176]
+[fltsim.175]
 title=AIGAIM_Loong Air Airbus A320-200SL
 model=CDC-Loong Air
 texture=CDC-Loong Air
@@ -3198,7 +3180,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.177]
+[fltsim.176]
 title=AIGAIM_Loong Air Airbus A320-200SL - Shuangliu
 model=CDC-Loong Air_Shuangliu
 texture=CDC-Loong Air_Shuangliu
@@ -3216,7 +3198,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.178]
+[fltsim.177]
 title=AIGAIM_Loong Air Airbus A320-200SL - Festival in Xian
 model=CDC-Loong Air_Festival in Xian
 texture=CDC-Loong Air_Festival in Xian
@@ -3234,7 +3216,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.179]
+[fltsim.178]
 title=AIGAIM_Loong Air Airbus A320-200SL - Picturesque Zhejiang
 model=CDC-Loong Air_Picturesque Zhejiang
 texture=CDC-Loong Air_Picturesque Zhejiang
@@ -3252,7 +3234,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.180]
+[fltsim.179]
 title=AIGAIM_Lucky Air Airbus A320-200SL
 model=LKE-Lucky Air
 texture=LKE-Lucky Air

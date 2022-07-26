@@ -523,7 +523,7 @@ title=AIGAIM_Vietnam Airlines Airbus A321-200neo
 model=HVN-Vietnam Airlines
 texture=HVN-Vietnam Airlines
 atc_id=VN-A617
-atc_airline=VIET NAM AIRLINES
+atc_airline=VIETNAM
 atc_parking_types=GATE,RAMP
 atc_parking_codes=HVN
 ui_manufacturer=Airbus
@@ -588,24 +588,6 @@ isUserSelectable=0
 icao_airline=KZR
 
 [fltsim.31]
-title=AIGAIM_Cebu Pacific Airbus A321-200neo - ACF
-model=CEB-Cebu Pacific_ACF
-texture=CEB-Cebu Pacific_ACF
-atc_id=RP-C4118
-atc_airline=CEBU AIR
-atc_parking_types=GATE,RAMP
-atc_parking_codes=CEB
-ui_manufacturer=Airbus
-ui_type=Airbus A321-200neo
-ui_variation=Cebu Air, Inc.
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: FAIB A321 Cebu.zip
-description=FAIB_A321-200neo_PW-PW_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=CEB
-
-[fltsim.32]
 title=AIGAIM_MEA Middle East Airlines Airbus A321-200neo
 model=MEA-MEA Middle East Airlines
 texture=MEA-MEA Middle East Airlines
@@ -623,7 +605,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=MEA
 
-[fltsim.33]
+[fltsim.32]
 title=AIGAIM_MEA Middle East Airlines Airbus A321-200neo - MSN 10000
 model=MEA-MEA Middle East Airlines_MSN 10000
 texture=MEA-MEA Middle East Airlines_MSN 10000
@@ -640,3 +622,21 @@ description=FAIB_A321-200neo_PW-PW_S(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=MEA
+
+[fltsim.33]
+title=AIGAIM_Cebu Pacific Airbus A321-200neo
+model=CEB-Cebu Pacific
+texture=CEB-Cebu Pacific
+atc_id=RP-C4118
+atc_airline=CEBU
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CEB
+ui_manufacturer=Airbus
+ui_type=Airbus A321-200neo
+ui_variation=Cebu Air, Inc.
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: FAIB A321 Cebu.zip
+description=FAIB_A321-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CEB
