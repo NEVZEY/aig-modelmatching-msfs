@@ -1,0 +1,9 @@
+*.dds.json
+*.dds
+*.png.json
+model.cfg
+texture.cfg
+.pln
+oci.alpha\
+oci.lmfromalpha\
+FPDatabase.xml

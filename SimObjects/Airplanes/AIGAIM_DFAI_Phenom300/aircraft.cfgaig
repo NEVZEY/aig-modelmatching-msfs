@@ -1,0 +1,1370 @@
+[VERSION]
+major=1
+minor=0
+
+[GENERAL]
+atc_type="TT:ATCCOM.ATC_NAME EMBRAER.0.text"
+atc_model="TT:ATCCOM.AC_MODEL E55P.0.text"
+Category="airplane"
+pilot="Pilot_Female_Uniform"
+copilot="Pilot_Male_Uniform"
+instructor="Pilot_Male_Uniform"
+performance=""
+icao_type_designator=E55P
+icao_manufacturer=CESSNA
+icao_model=Phenom 300
+icao_engine_type=Jet
+icao_engine_count=2
+icao_WTC="M"
+icao_generic=0
+
+[PILOT]
+pilot="Pilot_Female_Casual"
+copilot="Pilot_Male_Casual"
+instructor="Pilot_Male_Casual"
+pilot_default_animation="Idle1_PosePropeller"
+copilot_default_animation="Idle2_PosePropeller"
+pilot_attach_node="PILOT_0"
+copilot_attach_node="PILOT_1"
+
+[SERVICES]
+FUELTRUCK=1
+BAGGAGE_LOADER=0
+CATERING_TRUCK=0
+BOARDING_RAMP=0
+GROUND_POWER_UNIT=0
+PUSHBACK=0
+SMALL_PUSHBACK=1
+MARSHALLER=1
+JETWAY=0
+
+[EFFECTS]
+effect.0=attpt_effect00#(A:GENERAL ENG COMBUSTION:1, boolean)#FX_ASOBO_HEAT_BIG
+effect.1=attpt_effect01#(A:GENERAL ENG COMBUSTION:2, boolean)#FX_ASOBO_HEAT_BIG
+
+[VR]
+yoke_anim_x="HANDLING_YOKE_Lever_StickLR"
+yoke_anim_y="HANDLING_YOKE_Lever_StickForeAft"
+yoke_node="HANDLING_Yoke_1"
+yoke_collision_mesh="HANDLING_YOKE_Hider_1_Add_1"
+
+[fltsim.0]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N331FX
+model=GA2J-Flexjet_N331FX
+texture=GA2J-Flexjet_N331FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N331FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.1]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N333FX
+model=GA2J-Flexjet_N333FX
+texture=GA2J-Flexjet_N333FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N333FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.2]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N344FX
+model=GA2J-Flexjet_N344FX
+texture=GA2J-Flexjet_N344FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N344FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.3]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N346FX
+model=GA2J-Flexjet_N346FX
+texture=GA2J-Flexjet_N346FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N346FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.4]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N347FX
+model=GA2J-Flexjet_N347FX
+texture=GA2J-Flexjet_N347FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N347FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.5]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N348FX
+model=GA2J-Flexjet_N348FX
+texture=GA2J-Flexjet_N348FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N348FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.6]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N349FX
+model=GA2J-Flexjet_N349FX
+texture=GA2J-Flexjet_N349FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N349FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.7]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N351FX
+model=GA2J-Flexjet_N351FX
+texture=GA2J-Flexjet_N351FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N351FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.8]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N352FX
+model=GA2J-Flexjet_N352FX
+texture=GA2J-Flexjet_N352FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N352FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.9]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N353FX
+model=GA2J-Flexjet_N353FX
+texture=GA2J-Flexjet_N353FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N353FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.10]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N354FX
+model=GA2J-Flexjet_N354FX
+texture=GA2J-Flexjet_N354FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N354FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.11]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N355FX
+model=GA2J-Flexjet_N355FX
+texture=GA2J-Flexjet_N355FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N355FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.12]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N356FX
+model=GA2J-Flexjet_N356FX
+texture=GA2J-Flexjet_N356FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N356FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.13]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N357FX
+model=GA2J-Flexjet_N357FX
+texture=GA2J-Flexjet_N357FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N357FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.14]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N358FX
+model=GA2J-Flexjet_N358FX
+texture=GA2J-Flexjet_N358FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N358FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.15]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N359FX
+model=GA2J-Flexjet_N359FX
+texture=GA2J-Flexjet_N359FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N359FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.16]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N360FX
+model=GA2J-Flexjet_N360FX
+texture=GA2J-Flexjet_N360FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N360FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.17]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N361FX
+model=GA2J-Flexjet_N361FX
+texture=GA2J-Flexjet_N361FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N361FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.18]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N365FX
+model=GA2J-Flexjet_N365FX
+texture=GA2J-Flexjet_N365FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N365FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.19]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N366FX
+model=GA2J-Flexjet_N366FX
+texture=GA2J-Flexjet_N366FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N366FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.20]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N367FX
+model=GA2J-Flexjet_N367FX
+texture=GA2J-Flexjet_N367FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N367FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.21]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N368FX
+model=GA2J-Flexjet_N368FX
+texture=GA2J-Flexjet_N368FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N368FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.22]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N369FX
+model=GA2J-Flexjet_N369FX
+texture=GA2J-Flexjet_N369FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N369FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.23]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N370FX
+model=GA2J-Flexjet_N370FX
+texture=GA2J-Flexjet_N370FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N370FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.24]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N371FX
+model=GA2J-Flexjet_N371FX
+texture=GA2J-Flexjet_N371FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N371FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.25]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N372FX
+model=GA2J-Flexjet_N372FX
+texture=GA2J-Flexjet_N372FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N372FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.26]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N373FX
+model=GA2J-Flexjet_N373FX
+texture=GA2J-Flexjet_N373FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N373FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.27]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N374FX
+model=GA2J-Flexjet_N374FX
+texture=GA2J-Flexjet_N374FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N374FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.28]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N375FX
+model=GA2J-Flexjet_N375FX
+texture=GA2J-Flexjet_N375FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N375FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.29]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N376FX
+model=GA2J-Flexjet_N376FX
+texture=GA2J-Flexjet_N376FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N376FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.30]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N377FX
+model=GA2J-Flexjet_N377FX
+texture=GA2J-Flexjet_N377FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N377FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.31]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N378FX
+model=GA2J-Flexjet_N378FX
+texture=GA2J-Flexjet_N378FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N378FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.32]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N379FX
+model=GA2J-Flexjet_N379FX
+texture=GA2J-Flexjet_N379FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N379FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.33]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N380FX
+model=GA2J-Flexjet_N380FX
+texture=GA2J-Flexjet_N380FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N380FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.34]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N381FX
+model=GA2J-Flexjet_N381FX
+texture=GA2J-Flexjet_N381FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N381FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.35]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N382FX
+model=GA2J-Flexjet_N382FX
+texture=GA2J-Flexjet_N382FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N382FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.36]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N383FX
+model=GA2J-Flexjet_N383FX
+texture=GA2J-Flexjet_N383FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N383FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.37]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N384FX
+model=GA2J-Flexjet_N384FX
+texture=GA2J-Flexjet_N384FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N384FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.38]
+title=AIGAIM_Flexjet Embraer Phenom 300 - N385FX
+model=GA2J-Flexjet_N385FX
+texture=GA2J-Flexjet_N385FX
+atc_airline=FLEXJET
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,LXJ
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, Flexjet, N385FX
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: FlexjetPhenom300s.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=LXJ
+
+[fltsim.39]
+title=AIGAIM_Elite Jets Embraer Phenom 300 - N4B
+model=GA2J-Elite Jets_N4B
+texture=GA2J-Elite Jets_N4B
+atc_id=N4B
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Elite Jets
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_elitejets_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.40]
+title=AIGAIM_Elite Jets Embraer Phenom 300 - N5A
+model=GA2J-Elite Jets_N5A
+texture=GA2J-Elite Jets_N5A
+atc_id=N5A
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Elite Jets
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_elitejets_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.41]
+title=AIGAIM_Elite Jets Embraer Phenom 300 - N6A
+model=GA2J-Elite Jets_N6A
+texture=GA2J-Elite Jets_N6A
+atc_id=N6A
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Elite Jets
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_elitejets_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.42]
+title=AIGAIM_Elite Jets Embraer Phenom 300 - N7DR
+model=GA2J-Elite Jets_N7DR
+texture=GA2J-Elite Jets_N7DR
+atc_id=N7DR
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Elite Jets
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_elitejets_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.43]
+title=AIGAIM_Clayton Homes Embraer Phenom 300 - N1CH
+model=GA2J-Clayton Homes_N1CH
+texture=GA2J-Clayton Homes_N1CH
+atc_id=N1CH
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Clayton Homes
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_claytonhomes_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.44]
+title=AIGAIM_Clayton Homes Embraer Phenom 300 - N1KA
+model=GA2J-Clayton Homes_N1KA
+texture=GA2J-Clayton Homes_N1KA
+atc_id=N1KA
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Clayton Homes
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_claytonhomes_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.45]
+title=AIGAIM_Clayton Homes Embraer Phenom 300 - N7CH
+model=GA2J-Clayton Homes_N7CH
+texture=GA2J-Clayton Homes_N7CH
+atc_id=N7CH
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Clayton Homes
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_claytonhomes_e55p_p3d.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.46]
+title=AIGAIM_Dot Foods Embraer Phenom 300 - N960RT
+model=GA2J-Dot Foods_N960RT
+texture=GA2J-Dot Foods_N960RT
+atc_id=N960RT
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Dot Foods Embraer Phenom 300 N960RT
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: DotFoods_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.47]
+title=AIGAIM_Dimor Aero Embraer Phenom 300 - D-CDMO
+model=GA2J-Dimor Aero GmbH_D-CDMO
+texture=GA2J-Dimor Aero GmbH_D-CDMO
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300, c/n 50500417, Dimor Aero, D-CDMO
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Marco Kosterman on JCAI Filename: DFAI_Phenom_300_D-CDMO.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.48]
+title=AIGAIM_Liebherr USA Embraer Phenom 300 - N54LA
+model=GA2J-Liebherr USA_N54LA
+texture=GA2J-Liebherr USA_N54LA
+atc_id=N54LA
+atc_airline=TWILIGHT
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,TWY
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Liebherr USA Embraer Phenom 300 N54LA
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: LiebherrUSA_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=TWY
+
+[fltsim.49]
+title=AIGAIM_Manhag AG Embraer Phenom 300 - HB-VYM
+model=GA2J-Manhag AG_HB-VYM
+texture=GA2J-Manhag AG_HB-VYM
+atc_id=HB-VYM
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=Embraer
+ui_type=Embraer Phenom 300
+ui_variation=Embraer Phenom 300 DFAI Manhag MNHG HB-VYM
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: OCH Filename: hb-vym_hd.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.50]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N317N
+model=GA2J-Nicholas Air_N317N
+texture=GA2J-Nicholas Air_N317N
+atc_id=N317N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.51]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N377N
+model=GA2J-Nicholas Air_N377N
+texture=GA2J-Nicholas Air_N377N
+atc_id=N377N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.52]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N413N
+model=GA2J-Nicholas Air_N413N
+texture=GA2J-Nicholas Air_N413N
+atc_id=N413N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.53]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N423N
+model=GA2J-Nicholas Air_N423N
+texture=GA2J-Nicholas Air_N423N
+atc_id=N423N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.54]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N516N
+model=GA2J-Nicholas Air_N516N
+texture=GA2J-Nicholas Air_N516N
+atc_id=N516N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.55]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N807N
+model=GA2J-Nicholas Air_N807N
+texture=GA2J-Nicholas Air_N807N
+atc_id=N807N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.56]
+title=AIGAIM_Nicholas Air Embraer Phenom 300 - N839N
+model=GA2J-Nicholas Air_N839N
+texture=GA2J-Nicholas Air_N839N
+atc_id=N839N
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Nicholas Air
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_nicholas_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.57]
+title=AIGAIM_Masco Embraer Phenom 300 - N175MC
+model=GA2J-Masco_N175MC
+texture=GA2J-Masco_N175MC
+atc_id=N175MC
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Masco Embraer Phenom 300 N175MC
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: Masco_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.58]
+title=AIGAIM_Maxair Embraer Phenom 300 - N98D
+model=GA2J-Maxair_N98D
+texture=GA2J-Maxair_N98D
+atc_id=N98D
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Maxair Embraer Phenom 300 N98D
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: Maxair_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.59]
+title=AIGAIM_Promega Corporation Embraer Phenom 300 - N978PC
+model=GA2J-Promega Corporation_N978PC
+texture=GA2J-Promega Corporation_N978PC
+atc_id=N978PC
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Promega Corporation Embraer Phenom 300 N978PC
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: Promega_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.60]
+title=AIGAIM_Avcon Jet Embraer Phenom 300 - OE-GAP
+model=GA2J-Avcon Jet_OE-GAP
+texture=GA2J-Avcon Jet_OE-GAP
+atc_id=OE-GAP
+atc_airline=ASTERIX
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,AOJ
+ui_manufacturer=Embraer
+ui_type=Embraer Phenom 300
+ui_variation=Avcon Jet OE-GAP
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: OCH Filename: Avcon Jet OE-GAP.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AOJ
+
+[fltsim.61]
+title=AIGAIM_University of Florida Embraer Phenom 300 - N100FG
+model=GA2J-University of Florida_N100FG
+texture=GA2J-University of Florida_N100FG
+atc_id=N100FG
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=University of Florida Embraer Phenom 300 N100FG
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JCAI Filename: UF_E55P.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
+
+[fltsim.62]
+title=AIGAIM_Airshare Embraer Phenom 300 - N301AS
+model=GA2J-Airshare_N301AS
+texture=GA2J-Airshare_N301AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.63]
+title=AIGAIM_Airshare Embraer Phenom 300 - N324AS
+model=GA2J-Airshare_N324AS
+texture=GA2J-Airshare_N324AS
+atc_id=N324AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.64]
+title=AIGAIM_Airshare Embraer Phenom 300 - N325AS
+model=GA2J-Airshare_N325AS
+texture=GA2J-Airshare_N325AS
+atc_id=N325AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.65]
+title=AIGAIM_Airshare Embraer Phenom 300 - N326AS
+model=GA2J-Airshare_N326AS
+texture=GA2J-Airshare_N326AS
+atc_id=N326AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.66]
+title=AIGAIM_Airshare Embraer Phenom 300 - N335AS
+model=GA2J-Airshare_N335AS
+texture=GA2J-Airshare_N335AS
+atc_id=N335AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.67]
+title=AIGAIM_Airshare Embraer Phenom 300 - N337AS
+model=GA2J-Airshare_N337AS
+texture=GA2J-Airshare_N337AS
+atc_id=N337AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.68]
+title=AIGAIM_Airshare Embraer Phenom 300 - N340AS
+model=GA2J-Airshare_N340AS
+texture=GA2J-Airshare_N340AS
+atc_id=N340AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.69]
+title=AIGAIM_Airshare Embraer Phenom 300 - N346AS
+model=GA2J-Airshare_N346AS
+texture=GA2J-Airshare_N346AS
+atc_id=N346AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.70]
+title=AIGAIM_Airshare Embraer Phenom 300 - N359AS
+model=GA2J-Airshare_N359AS
+texture=GA2J-Airshare_N359AS
+atc_id=N359AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.71]
+title=AIGAIM_Airshare Embraer Phenom 300 - N361AS
+model=GA2J-Airshare_N361AS
+texture=GA2J-Airshare_N361AS
+atc_id=N361AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.72]
+title=AIGAIM_Airshare Embraer Phenom 300 - N362AS
+model=GA2J-Airshare_N362AS
+texture=GA2J-Airshare_N362AS
+atc_id=N362AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.73]
+title=AIGAIM_Airshare Embraer Phenom 300 - N368AS
+model=GA2J-Airshare_N368AS
+texture=GA2J-Airshare_N368AS
+atc_id=N368AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.74]
+title=AIGAIM_Airshare Embraer Phenom 300 - N697AS
+model=GA2J-Airshare_N697AS
+texture=GA2J-Airshare_N697AS
+atc_id=N697AS
+atc_airline=AIRSHARE
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,XSR
+ui_manufacturer=DFAI
+ui_type=Embraer Phenom 300
+ui_variation=Airshare
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: dfai_airshare_e55p_p3d.zip
+description=DFAI_Phenom300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=XSR
+
+[fltsim.75]
+title=AIGAIM_Star Wings Dortmund Embraer Phenom 300 - D-CCGM
+model=GA2J-Star Wings Dortmund_D-CCGM
+texture=GA2J-Star Wings Dortmund_D-CCGM
+atc_airline=STARTREK
+atc_parking_types=RAMP
+atc_parking_codes=GA2J,STQ
+ui_manufacturer=Embraer
+ui_type=Embraer Phenom 300
+ui_variation=Star Wings Dortmund D-CCMG
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: OCH Filename: Star Wings Dortmund.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=STQ
+
+[fltsim.76]
+title=AIGAIM_Spree Flug Luftfahrt Embraer Phenom 300 - D-CLIF
+model=GA2J-Spree Flug Luftfahrt_D-CLIF
+texture=GA2J-Spree Flug Luftfahrt_D-CLIF
+atc_parking_types=RAMP
+atc_parking_codes=GA2J
+ui_manufacturer=Embraer
+ui_type=Embraer Phenom 300
+ui_variation=Spree Flug Luftfahrt D-CLIF
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: OCH Filename: Spree Flug Luftfahrt.zip
+description=DFAI_Phenom300-Marco(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=GA2J
