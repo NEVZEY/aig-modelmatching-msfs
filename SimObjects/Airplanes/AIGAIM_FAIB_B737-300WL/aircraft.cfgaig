@@ -138,41 +138,6 @@ isUserSelectable=0
 icao_airline=VSV
 
 [fltsim.6]
-title=AIGAIM_Canadian North Boeing 737-300WL
-model=MPE-Canadian North
-texture=MPE-Canadian North
-atc_airline=EMPRESS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
-ui_manufacturer=FAIB
-ui_type=Boeing 737-300WL
-ui_variation=Canadian North
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: ATCO Filename: faib_733w_mpe.zip
-description=FAIB_B737-300WL-winglets(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=MPE
-
-[fltsim.7]
-title=AIGAIM_Canadian North Boeing 737-300WL - OC
-model=MPE-Canadian North_OC
-texture=MPE-Canadian North_OC
-atc_id=C-GCNZ
-atc_airline=EMPRESS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
-ui_manufacturer=Boeing
-ui_type=Boeing 737-300WL
-ui_variation=Candian North
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: FSAI Filename: faib_mpe_b737_p3d.zip
-description=FAIB_B737-300WL-winglets(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=MPE
-
-[fltsim.8]
 title=AIGAIM_Ellinair Boeing 737-300WL - Albino opb Bul Air
 model=ELB-Ellinair_Albino opb Bul Air
 texture=ELB-Ellinair_Albino opb Bul Air
@@ -190,7 +155,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=ELB
 
-[fltsim.9]
+[fltsim.7]
 title=AIGAIM_Fly Erbil Boeing 737-300WL - opb UR Airlines (TEMP)
 model=UBD-Fly Erbil_opb UR Airlines_temp
 texture=UBD-Fly Erbil_opb UR Airlines_temp
@@ -208,7 +173,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=UBD
 
-[fltsim.10]
+[fltsim.8]
 title=AIGAIM_GP Aviation Boeing 737-300WL - opb Bulair Bulgarian Flag
 model=GPX-GP Aviation_opb Bulair Bulgarian Flag
 texture=GPX-GP Aviation_opb Bulair Bulgarian Flag
@@ -226,7 +191,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=GPX
 
-[fltsim.11]
+[fltsim.9]
 title=AIGAIM_GP Aviation Boeing 737-300WL - opb Bulair All White
 model=GPX-GP Aviation_opb Bulair All White
 texture=GPX-GP Aviation_opb Bulair All White
@@ -244,7 +209,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=GPX
 
-[fltsim.12]
+[fltsim.10]
 title=AIGAIM_iAero Airways Boeing 737-300WL - No Pitot Stencils
 model=SWQ-iAero Airways_No Pitot Stencils
 texture=SWQ-iAero Airways_No Pitot Stencils
@@ -259,7 +224,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SWQ
 
-[fltsim.13]
+[fltsim.11]
 title=AIGAIM_iAero Airways Boeing 737-300WL - Blue Hubs Forward Reg Red Inlet
 model=SWQ-iAero Airways_Blue Hubs Forward Reg Red Inlet
 texture=SWQ-iAero Airways_Blue Hubs Forward Reg Red Inlet
@@ -274,7 +239,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SWQ
 
-[fltsim.14]
+[fltsim.12]
 title=AIGAIM_iAero Airways Boeing 737-300WL
 model=SWQ-iAero Airways
 texture=SWQ-iAero Airways
@@ -289,7 +254,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SWQ
 
-[fltsim.15]
+[fltsim.13]
 title=AIGAIM_iAero Airways Boeing 737-300WL - Blue Hubs Red Inlet
 model=SWQ-iAero Airways_Blue Hubs Red Inlet
 texture=SWQ-iAero Airways_Blue Hubs Red Inlet
@@ -304,7 +269,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SWQ
 
-[fltsim.16]
+[fltsim.14]
 title=AIGAIM_Kam Air Boeing 737-300WL
 model=KMF-Kam Air
 texture=KMF-Kam Air
@@ -321,7 +286,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=KMF
 
-[fltsim.17]
+[fltsim.15]
 title=AIGAIM_Kam Air Boeing 737-300WL - White
 model=KMF-Kam Air_White
 texture=KMF-Kam Air_White
@@ -338,7 +303,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=KMF
 
-[fltsim.18]
+[fltsim.16]
 title=AIGAIM_Kam Air Boeing 737-300WL - Tayaran Jet colors (TEMP)
 model=KMF-Kam Air_Tayaran Jet colors_temp
 texture=KMF-Kam Air_Tayaran Jet colors_temp
@@ -356,7 +321,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=KMF
 
-[fltsim.19]
+[fltsim.17]
 title=AIGAIM_LAS Cargo Boeing 737-300WL - SF Eyebrows
 model=LAU-LAS Cargo_SF Eyebrows
 texture=LAU-LAS Cargo_SF Eyebrows
@@ -371,3 +336,56 @@ description=FAIB_B737-300WL-winglets(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=LAU
+
+[fltsim.18]
+title=AIGAIM_Canadian North Boeing 737-300WL - Eyebrows
+model=AKT-Canadian North_Eyebrows
+texture=AKT-Canadian North_Eyebrows
+atc_airline=ARCTIC
+atc_parking_types=GATE,RAMP
+atc_parking_codes=AKT
+ui_manufacturer=FAIB
+ui_type=Boeing 737-300WL
+ui_variation=Canadian North
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: ATCO Filename: faib_733w_mpe.zip
+description=FAIB_B737-300WL-winglets(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AKT
+
+[fltsim.19]
+title=AIGAIM_Canadian North Boeing 737-300WL - OC (TEMP)
+model=AKT-Canadian North_OC_temp
+texture=AKT-Canadian North_OC_temp
+atc_id=C-GCNZ
+atc_airline=ARCTIC
+atc_parking_types=GATE,RAMP
+atc_parking_codes=AKT
+ui_manufacturer=Boeing
+ui_type=Boeing 737-300WL
+ui_variation=Candian North
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_mpe_b737_p3d.zip
+description=FAIB_B737-300WL-winglets(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AKT
+
+[fltsim.20]
+title=AIGAIM_Canadian North Boeing 737-300WL - OC Eyebrows
+model=AKT-Canadian North_OC Eyebrows
+texture=AKT-Canadian North_OC Eyebrows
+atc_id=C-GCNZ
+atc_airline=ARCTIC
+atc_parking_types=GATE,RAMP
+atc_parking_codes=AKT
+ui_manufacturer=Boeing
+ui_type=Boeing 737-300WL
+ui_variation=Candian North
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_mpe_b737_p3d.zip
+description=FAIB_B737-300WL-winglets(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AKT

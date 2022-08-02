@@ -901,9 +901,9 @@ title=AIGAIM_Canadian North Boeing 737-300 - OC
 model=MPE-Canadian North_OC
 texture=MPE-Canadian North_OC
 atc_id=C-FKCN
-atc_airline=EMPRESS
+atc_airline=ARCTIC
 atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
+atc_parking_codes=AKT
 ui_manufacturer=Boeing
 ui_type=Boeing 737-300
 ui_variation=Candian North
@@ -912,33 +912,15 @@ ui_createdby=Provided by: FSAI Filename: faib_mpe_b733_p3d.zip
 description=FAIB_B737-300-logolight(fs20)
 isAirTraffic=1
 isUserSelectable=0
-icao_airline=MPE
+icao_airline=AKT
 
 [fltsim.50]
-title=AIGAIM_Canadian North Boeing 737-300 - OC Eyebrows
-model=MPE-Canadian North_OC Eyebrows
-texture=MPE-Canadian North_OC Eyebrows
-atc_id=C-GCNK
-atc_airline=EMPRESS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
-ui_manufacturer=Boeing
-ui_type=Boeing 737-300
-ui_variation=Candian North
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: FSAI Filename: faib_mpe_b733_p3d.zip
-description=FAIB_B737-300-logolight(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=MPE
-
-[fltsim.51]
 title=AIGAIM_Canadian North Boeing 737-300 - CFL
 model=MPE-Canadian North_CFL
 texture=MPE-Canadian North_CFL
-atc_airline=EMPRESS
+atc_airline=ARCTIC
 atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
+atc_parking_codes=AKT
 ui_manufacturer=FAIB
 ui_type=Boeing 737-300
 ui_variation=Canadian North - C-GCNO CFL Official Airline
@@ -947,15 +929,15 @@ ui_createdby=Provided by: ATCO Filename: faib_733_mpe_cgcno.zip
 description=FAIB_B737-300-logolight(fs20)
 isAirTraffic=1
 isUserSelectable=0
-icao_airline=MPE
+icao_airline=AKT
 
-[fltsim.52]
+[fltsim.51]
 title=AIGAIM_Canadian North Boeing 737-300 - Celebrity Cruises
 model=MPE-Canadian North_Celebrity Cruises
 texture=MPE-Canadian North_Celebrity Cruises
-atc_airline=EMPRESS
+atc_airline=ARCTIC
 atc_parking_types=GATE,RAMP
-atc_parking_codes=MPE
+atc_parking_codes=AKT
 ui_manufacturer=FAIB
 ui_type=Boeing 737-300
 ui_variation=Canadian North - C-GPNL Celebrity Cruises
@@ -964,27 +946,9 @@ ui_createdby=Provided by: ATCO Filename: faib_733_mpe_cgpnl.zip
 description=FAIB_B737-300-logolight(fs20)
 isAirTraffic=1
 isUserSelectable=0
-icao_airline=MPE
+icao_airline=AKT
 
-[fltsim.53]
-title=AIGAIM_Canadian North Boeing 737-300C - Combi OC
-model=MPE-Canadian North_Combi OC
-texture=MPE-Canadian North_Combi OC
-atc_id=C-GZCN
-atc_airline=EMPRESS
-atc_parking_types=RAMP
-atc_parking_codes=MPE
-ui_manufacturer=Boeing
-ui_type=Boeing 737-300C
-ui_variation=Candian North
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: FSAI Filename: faib_mpe_b733_p3d.zip
-description=FAIB_B737-300-logolight(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=MPE
-
-[fltsim.54]
+[fltsim.52]
 title=AIGAIM_Cargoair Boeing 737-300 - SF Eyebrows
 model=CGF-Cargoair_SF Eyebrows
 texture=CGF-Cargoair_SF Eyebrows
@@ -1002,7 +966,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CGF
 
-[fltsim.55]
+[fltsim.53]
 title=AIGAIM_Cayman Airways Boeing 737-300
 model=CAY-Cayman Airways
 texture=CAY-Cayman Airways
@@ -1020,7 +984,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CAY
 
-[fltsim.56]
+[fltsim.54]
 title=AIGAIM_Daallo Airlines Boeing 737-300 - Eyebrows
 model=DAO-Daallo Airlines_Eyebrows
 texture=DAO-Daallo Airlines_Eyebrows
@@ -1037,7 +1001,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DAO
 
-[fltsim.57]
+[fltsim.55]
 title=AIGAIM_Deraya Air Taxi Boeing 737-300 - QC
 model=DRY-Deraya Air Taxi_QC
 texture=DRY-Deraya Air Taxi_QC
@@ -1055,7 +1019,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DRY
 
-[fltsim.58]
+[fltsim.56]
 title=AIGAIM_EAT Leipzig Boeing 737-300 - SF opb Cargoair Eyebrows
 model=BCS-EAT Leipzig_SF opb Cargoair Eyebrows
 texture=BCS-EAT Leipzig_SF opb Cargoair Eyebrows
@@ -1073,7 +1037,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=BCS
 
-[fltsim.59]
+[fltsim.57]
 title=AIGAIM_Ellinair Boeing 737-300 - Albino opb Bul Air
 model=ELB-Ellinair_Albino opb Bul Air
 texture=ELB-Ellinair_Albino opb Bul Air
@@ -1091,7 +1055,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=ELB
 
-[fltsim.60]
+[fltsim.58]
 title=AIGAIM_Eritrean Airlines Boeing 737-300 - opb YanAir
 model=ERT-Eritrean Airlines_opb YanAir
 texture=ERT-Eritrean Airlines_opb YanAir
@@ -1108,7 +1072,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=ERT
 
-[fltsim.61]
+[fltsim.59]
 title=AIGAIM_Express Air Cargo Boeing 737-300 - QC
 model=XRC-Express Air Cargo_QC
 texture=XRC-Express Air Cargo_QC
@@ -1126,7 +1090,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=XRC
 
-[fltsim.62]
+[fltsim.60]
 title=AIGAIM_Express Air Cargo Boeing 737-300 - SF ex Texel TS-ICB
 model=XRC-Express Air Cargo_SF ex Texel TS-ICB
 texture=XRC-Express Air Cargo_SF ex Texel TS-ICB
@@ -1144,7 +1108,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=XRC
 
-[fltsim.63]
+[fltsim.61]
 title=AIGAIM_Fly Jordan Boeing 737-300
 model=FJR-Fly Jordan
 texture=FJR-Fly Jordan
@@ -1159,7 +1123,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=FJR
 
-[fltsim.64]
+[fltsim.62]
 title=AIGAIM_iAero Airways Cargo Boeing 737-300 - BDSF
 model=SWQ-iAero Airways Cargo_BDSF
 texture=SWQ-iAero Airways Cargo_BDSF
@@ -1177,7 +1141,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SWQ
 
-[fltsim.65]
+[fltsim.63]
 title=AIGAIM_Jordan Aviation Boeing 737-300
 model=JAV-Jordan Aviation
 texture=JAV-Jordan Aviation
@@ -1195,7 +1159,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAV
 
-[fltsim.66]
+[fltsim.64]
 title=AIGAIM_Longhao Airlines Boeing 737-300 - SF Eyebrows
 model=LHA-Longhao Airlines_SF Eyebrows
 texture=LHA-Longhao Airlines_SF Eyebrows
@@ -1212,7 +1176,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LHA
 
-[fltsim.67]
+[fltsim.65]
 title=AIGAIM_Loong Air Boeing 737-300 - SF CDI Cargo Hybrid
 model=CDC-Loong Air_SF CDI Cargo Hybrid
 texture=CDC-Loong Air_SF CDI Cargo Hybrid
@@ -1230,7 +1194,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.68]
+[fltsim.66]
 title=AIGAIM_Loong Air Boeing 737-300 - SF CDI Cargo Livery
 model=CDC-Loong Air_SF CDI Cargo Livery
 texture=CDC-Loong Air_SF CDI Cargo Livery
@@ -1248,7 +1212,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CDC
 
-[fltsim.69]
+[fltsim.67]
 title=AIGAIM_Lumiwings Boeing 737-300
 model=LWI-Lumiwings
 texture=LWI-Lumiwings
@@ -1266,7 +1230,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LWI
 
-[fltsim.70]
+[fltsim.68]
 title=AIGAIM_Mid Africa Aviation Boeing 737-300
 model=MFG-Mid Africa Aviation
 texture=MFG-Mid Africa Aviation
@@ -1283,7 +1247,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=MFG
 
-[fltsim.71]
+[fltsim.69]
 title=AIGAIM_BidAir Cargo Boeing 737-300 - SF Big 737 Titles
 model=BRH-BidAir Cargo_SF Big 737 Titles
 texture=BRH-BidAir Cargo_SF Big 737 Titles
@@ -1301,7 +1265,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=BRH
 
-[fltsim.72]
+[fltsim.70]
 title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF
 model=AAH-Aloha Air Cargo_SF
 texture=AAH-Aloha Air Cargo_SF
@@ -1319,7 +1283,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=AAH
 
-[fltsim.73]
+[fltsim.71]
 title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF cargo door bumper
 model=AAH-Aloha Air Cargo_SF cargo door bumper
 texture=AAH-Aloha Air Cargo_SF cargo door bumper
@@ -1337,7 +1301,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=AAH
 
-[fltsim.74]
+[fltsim.72]
 title=AIGAIM_Aloha Air Cargo Boeing 737-300 - SF Northern Air Cargo
 model=AAH-Aloha Air Cargo_SF Northern Air Cargo
 texture=AAH-Aloha Air Cargo_SF Northern Air Cargo
@@ -1355,7 +1319,25 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=AAH
 
-[fltsim.75]
+[fltsim.73]
+title=AIGAIM_Canadian North Boeing 737-300C - OC
+model=AKT-Canadian North_OC
+texture=AKT-Canadian North_OC
+atc_id=C-GZCN
+atc_airline=ARCTIC
+atc_parking_types=RAMP
+atc_parking_codes=AKT
+ui_manufacturer=Boeing
+ui_type=Boeing 737-300C
+ui_variation=Candian North
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_mpe_b733_p3d.zip
+description=FAIB_B737-300-logolight(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=AKT
+
+[fltsim.74]
 title=AIGAIM_China Southern Airlines Boeing 737-300
 model=CSN-China Southern Airlines
 texture=CSN-China Southern Airlines
