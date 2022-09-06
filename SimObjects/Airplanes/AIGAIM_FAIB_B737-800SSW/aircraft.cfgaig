@@ -1773,7 +1773,7 @@ ui_manufacturer=FAIB
 ui_type=Boeing 737-800SSW
 ui_variation=Neos scimitars
 ui_typerole=Commercial Airliner
-ui_createdby=Provided by: FC75 Filename: faib_neos_738s_fsx.zip
+ui_createdby=Provided by: JB Filename: FAIB B738 Neos.zip
 description=FAIB_B737-800SSW-scimitars(fs20)
 isAirTraffic=1
 isUserSelectable=0
@@ -2206,42 +2206,6 @@ isUserSelectable=0
 icao_airline=JJA
 
 [fltsim.122]
-title=AIGAIM_Jet Time Boeing 737-800SSW - 'OY-JZM'
-model=JTD-Jet Time_'OY-JZM'
-texture=JTD-Jet Time_'OY-JZM'
-atc_id=OY-JZM
-atc_airline=NEW JET
-atc_parking_types=GATE,RAMP
-atc_parking_codes=JTD
-ui_manufacturer=FAIB
-ui_type=Boeing 737-800SSW
-ui_variation=Jettime
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JCAI Filename: FAIB_Boeing 737-800SSW-WL Jettime 2021_FSX.zip
-description=FAIB_B737-800SSW-scimitars(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=JTD
-
-[fltsim.123]
-title=AIGAIM_Jet Time Boeing 737-800SSW - 'OY-JZN'
-model=JTD-Jet Time_'OY-JZN'
-texture=JTD-Jet Time_'OY-JZN'
-atc_id=OY-JZN
-atc_airline=NEW JET
-atc_parking_types=GATE,RAMP
-atc_parking_codes=JTD
-ui_manufacturer=FAIB
-ui_type=Boeing 737-800SSW
-ui_variation=Jettime
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JCAI Filename: FAIB_Boeing 737-800SSW-WL Jettime 2021_FSX.zip
-description=FAIB_B737-800SSW-scimitars(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=JTD
-
-[fltsim.124]
 title=AIGAIM_Kulula Boeing 737-800SSW - SN
 model=CAW-Kulula_SN
 texture=CAW-Kulula_SN
@@ -2259,7 +2223,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CAW
 
-[fltsim.125]
+[fltsim.123]
 title=AIGAIM_Kulula Boeing 737-800SSW - SN white nose
 model=CAW-Kulula_SN white nose
 texture=CAW-Kulula_SN white nose
@@ -2277,7 +2241,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CAW
 
-[fltsim.126]
+[fltsim.124]
 title=AIGAIM_Luxair Boeing 737-800SSW - SN
 model=LGL-Luxair_SN
 texture=LGL-Luxair_SN
@@ -2294,3 +2258,146 @@ description=FAIB_B737-800SSW-scimitars_SN(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=LGL
+
+[fltsim.125]
+title=AIGAIM_Fly Gangwon Boeing 737-800SSW
+model=FGW-Fly Gangwon
+texture=FGW-Fly Gangwon
+atc_id=HL8397
+atc_airline=GANGWON
+atc_parking_types=GATE,RAMP
+atc_parking_codes=FGW
+ui_manufacturer=Boeing
+ui_type=Boeing 737-800SSW
+ui_variation=flyGangwon
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: FAIB B738 Flygangwon.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=FGW
+
+[fltsim.126]
+title=AIGAIM_Freebird Airlines Boeing 737-800SSW - opb SkyUp Airlines
+model=FHY-Freebird Airlines_opb SkyUp Airlines
+texture=FHY-Freebird Airlines_opb SkyUp Airlines
+atc_id=UR-SQH
+atc_airline=FREEBIRD AIR
+atc_parking_types=GATE,RAMP
+atc_parking_codes=FHY
+ui_manufacturer=Boeing
+ui_type=Boeing 737-800SSW
+ui_variation=SkyUp Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_sqp_boeing_738ssw.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=FHY
+
+[fltsim.127]
+title=AIGAIM_Jettime Boeing 737-800SSW - OY-JZM
+model=JTD-Jettime_OY-JZM
+texture=JTD-Jettime_OY-JZM
+atc_id=OY-JZM
+atc_airline=NEW JET
+atc_parking_types=GATE,RAMP
+atc_parking_codes=JTD
+ui_manufacturer=FAIB
+ui_type=Boeing 737-800SSW
+ui_variation=Jettime
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: FAIB_Boeing 737-800SSW-WL Jettime 2021_FSX.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=JTD
+
+[fltsim.128]
+title=AIGAIM_Jettime Boeing 737-800SSW - OY-JZN
+model=JTD-Jettime_OY-JZN
+texture=JTD-Jettime_OY-JZN
+atc_id=OY-JZN
+atc_airline=NEW JET
+atc_parking_types=GATE,RAMP
+atc_parking_codes=JTD
+ui_manufacturer=FAIB
+ui_type=Boeing 737-800SSW
+ui_variation=Jettime
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: FAIB_Boeing 737-800SSW-WL Jettime 2021_FSX.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=JTD
+
+[fltsim.129]
+title=AIGAIM_Tailwind Airlines Boeing 737-800SSW - SN aft Reg opb SkyUp Airlines
+model=TWI-Tailwind Airlines_SN aft Reg opb SkyUp Airlines
+texture=TWI-Tailwind Airlines_SN aft Reg opb SkyUp Airlines
+atc_id=UR-SQC
+atc_airline=TAILWIND
+atc_parking_types=GATE,RAMP
+atc_parking_codes=TWI
+ui_manufacturer=Boeing
+ui_type=Boeing 737-800SSW
+ui_variation=SkyUp Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_sqp_boeing_738ssw.zip
+description=FAIB_B737-800SSW-scimitars_SN(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=TWI
+
+[fltsim.130]
+title=AIGAIM_Corendon Airlines Europe Boeing 737-800SSW - opb Go2Sky (TEMP)
+model=CXI-Corendon Airlines Europe_opb Go2Sky_temp
+texture=CXI-Corendon Airlines Europe_opb Go2Sky_temp
+atc_airline=TOURISTIC
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CXI
+ui_manufacturer=FAIB
+ui_type=Boeing 737-800SSW
+ui_variation=TUI Airlines Belgium - lsf Air Explore
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FC75 Filename: faib_tuiairlinesbeaxe_73h.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CXI
+
+[fltsim.131]
+title=AIGAIM_Corendon Airlines Europe Boeing 737-800SSW - Hull City special
+model=CXI-Corendon Airlines Europe_Hull City special
+texture=CXI-Corendon Airlines Europe_Hull City special
+atc_id=9H-CXG
+atc_airline=TOURISTIC
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CXI
+ui_manufacturer=Boeing
+ui_type=Boeing 737-800SSW
+ui_variation=Corendon Airlines Europe 9H-CXG Hull City logojet
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FC75 Filename: faib_738_cxi_cxg.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CXI
+
+[fltsim.132]
+title=AIGAIM_Corendon Airlines Boeing 737-800SSW - opb SkyUp Airlines
+model=CAI-Corendon Airlines_opb SkyUp Airlines
+texture=CAI-Corendon Airlines_opb SkyUp Airlines
+atc_id=UR-SQA
+atc_airline=CORENDON
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CAI
+ui_manufacturer=Boeing
+ui_type=Boeing 737-800SSW
+ui_variation=SkyUp Airlines SSW SN
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: FSAI Filename: faib_sqp_boeing_738ssw.zip
+description=FAIB_B737-800SSW-scimitars(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CAI

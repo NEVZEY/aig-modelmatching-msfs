@@ -68,25 +68,6 @@ isUserSelectable=0
 icao_airline=AAR
 
 [fltsim.1]
-title=AIGAIM_Asiana Airlines Boeing 767-300 - Star Alliance
-model=AAR-Asiana Airlines_Star Alliance
-texture=AAR-Asiana Airlines_Star Alliance
-atc_id=HL7516
-atc_airline=ASIANA
-atc_heavy=1
-atc_parking_types=GATE,RAMP
-atc_parking_codes=AAR
-ui_manufacturer=FSX-AI Bureau (FAIB)
-ui_type=Boeing 767-300
-ui_variation=Asiana Airlines
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: FAIB B763_Asiana.zip
-description=FAIB_B767-300_GE-GEC(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=AAR
-
-[fltsim.2]
 title=AIGAIM_Air Algerie Boeing 767-300 - OC
 model=DAH-Air Algerie_OC
 texture=DAH-Air Algerie_OC
@@ -105,7 +86,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DAH
 
-[fltsim.3]
+[fltsim.2]
 title=AIGAIM_Air Do Boeing 767-300
 model=ADO-Air Do
 texture=ADO-Air Do
@@ -124,7 +105,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=ADO
 
-[fltsim.4]
+[fltsim.3]
 title=AIGAIM_Air Do Boeing 767-300 - Pokemon Rockon Jet (TEMP)
 model=ADO-Air Do_Pokemon Rockon Jet_temp
 texture=ADO-Air Do_Pokemon Rockon Jet_temp

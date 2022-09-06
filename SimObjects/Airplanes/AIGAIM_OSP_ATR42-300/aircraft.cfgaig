@@ -177,42 +177,6 @@ isUserSelectable=0
 icao_airline=AKT
 
 [fltsim.7]
-title=AIGAIM_Danish Air Transport ATR 42-300 - OY-CIU
-model=DTR-Danish Air Transport_OY-CIU
-texture=DTR-Danish Air Transport_OY-CIU
-atc_id=OY-CIU
-atc_airline=DANISH
-atc_parking_types=GATE,RAMP
-atc_parking_codes=DTR
-ui_manufacturer=OSP
-ui_type=ATR 42-300
-ui_variation=Danish Air Transport 'OY-CIU'
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 42-300_Danish Air Transport_2021_FSX.zip
-description=OSP_ATR42-300(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=DTR
-
-[fltsim.8]
-title=AIGAIM_Danish Air Transport ATR 42-300 - OY-CIR
-model=DTR-Danish Air Transport_OY-CIR
-texture=DTR-Danish Air Transport_OY-CIR
-atc_id=OY-CIR
-atc_airline=DANISH
-atc_parking_types=GATE,RAMP
-atc_parking_codes=DTR
-ui_manufacturer=OSP
-ui_type=ATR 42-300
-ui_variation=Danish Air Transport 'OY-CIR'
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JCAI Filename: OSP_ATR 42-300_Danish Air Transport_2021_FSX.zip
-description=OSP_ATR42-300(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=DTR
-
-[fltsim.9]
 title=AIGAIM_Danish Air Transport ATR 42-300 - OY-JRY
 model=DTR-Danish Air Transport_OY-JRY
 texture=DTR-Danish Air Transport_OY-JRY
@@ -224,13 +188,13 @@ ui_manufacturer=OSP
 ui_type=ATR 42-300
 ui_variation=Danish Air Transport 'OY-JRY'
 ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JCAI Filename: OSP_ATR 42-300_Danish Air Transport_2021_FSX.zip
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 42-300_Danish Air Transport_2021_FSX.zip
 description=OSP_ATR42-300(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=DTR
 
-[fltsim.10]
+[fltsim.8]
 title=AIGAIM_MAP Linhas Aereas ATR 42-300 - Black Webtitles
 model=PAM-MAP Linhas Aereas_Black Webtitles
 texture=PAM-MAP Linhas Aereas_Black Webtitles
@@ -248,3 +212,21 @@ description=OSP_ATR42-300(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=PAM
+
+[fltsim.9]
+title=AIGAIM_Danish Air Transport ATR 42-300 - OY-CIU 'All white w/Red Nose
+model=DTR-Danish Air Transport_OY-CIU 'All white w_Red Nose
+texture=DTR-Danish Air Transport_OY-CIU 'All white w_Red Nose
+atc_id=OY-CIU
+atc_airline=DANISH
+atc_parking_types=GATE,RAMP
+atc_parking_codes=DTR
+ui_manufacturer=OSP
+ui_type=ATR 42-300
+ui_variation=Danish Air Transport 'OY-CIU'
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 42-300_Danish Air Transport_2021_FSX.zip
+description=OSP_ATR42-300(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=DTR

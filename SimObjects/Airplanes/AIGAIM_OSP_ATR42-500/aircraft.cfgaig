@@ -481,41 +481,6 @@ isUserSelectable=0
 icao_airline=DTR
 
 [fltsim.24]
-title=AIGAIM_Danish Air Transport ATR 42-500 - White
-model=DTR-Danish Air Transport_White
-texture=DTR-Danish Air Transport_White
-atc_id=OY-RUO
-atc_airline=DANISH
-atc_parking_types=GATE,RAMP
-atc_parking_codes=DTR
-ui_manufacturer=Aerospatiale
-ui_type=ATR 42-500
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JCAI Filename: OSP_ATR 42-500_Danish Air Transport_2021_FSX.zip
-description=OSP_ATR42-500(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=DTR
-
-[fltsim.25]
-title=AIGAIM_Danish Air Transport ATR 42-500 - opb Danu Oro Transportas
-model=DTR-Danish Air Transport_opb Danu Oro Transportas
-texture=DTR-Danish Air Transport_opb Danu Oro Transportas
-atc_id=LY-DAT
-atc_airline=DANISH
-atc_parking_types=RAMP
-atc_parking_codes=DTR
-ui_manufacturer=Aerospatiale
-ui_type=ATR 42-500
-ui_variation=Danu Oro Transportas
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR_42-500_Danu Oro Transportas_LY-DAT_FSX.zip
-description=OSP_ATR42-500(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=DTR
-
-[fltsim.26]
 title=AIGAIM_Easyfly ATR 42-500
 model=EFY-Easyfly
 texture=EFY-Easyfly
@@ -534,7 +499,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=EFY
 
-[fltsim.27]
+[fltsim.25]
 title=AIGAIM_Easyfly ATR 42-500 - Racoon Windshield
 model=EFY-Easyfly_Racoon Windshield
 texture=EFY-Easyfly_Racoon Windshield
@@ -553,7 +518,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=EFY
 
-[fltsim.28]
+[fltsim.26]
 title=AIGAIM_FlyMe ATR 42-500
 model=VQI-FlyMe
 texture=VQI-FlyMe
@@ -571,7 +536,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VQI
 
-[fltsim.29]
+[fltsim.27]
 title=AIGAIM_Loganair ATR 42-500
 model=LOG-Loganair
 texture=LOG-Loganair
@@ -588,7 +553,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LOG
 
-[fltsim.30]
+[fltsim.28]
 title=AIGAIM_MAP Linhas Aereas ATR 42-500 - VOEPASS
 model=PAM-MAP Linhas Aereas_VOEPASS
 texture=PAM-MAP Linhas Aereas_VOEPASS
@@ -606,3 +571,56 @@ description=OSP_ATR42-500(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=PAM
+
+[fltsim.29]
+title=AIGAIM_Air Corsica ATR 42-500
+model=CCM-Air Corsica
+texture=CCM-Air Corsica
+atc_id=F-HAIB
+atc_airline=CORSICA
+atc_parking_types=GATE,RAMP
+atc_parking_codes=CCM
+ui_manufacturer=OSP
+ui_type=ATR 42-500
+ui_variation=Air Corsica F-HAIB
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: CCM-Air Corsica OSP ATR42.zip
+description=OSP_ATR42-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=CCM
+
+[fltsim.30]
+title=AIGAIM_Danish Air Transport ATR 42-500 - OY-RUO 'All white'
+model=DTR-Danish Air Transport_OY-RUO 'All white'
+texture=DTR-Danish Air Transport_OY-RUO 'All white'
+atc_id=OY-RUO
+atc_airline=DANISH
+atc_parking_types=GATE,RAMP
+atc_parking_codes=DTR
+ui_manufacturer=Aerospatiale
+ui_type=ATR 42-500
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 42-500_Danish Air Transport_2021_FSX.zip
+description=OSP_ATR42-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=DTR
+
+[fltsim.31]
+title=AIGAIM_Danish Air Transport ATR 42-500 - LY-DAT opb DOT LT
+model=DTR-Danish Air Transport_LY-DAT opb DOT LT
+texture=DTR-Danish Air Transport_LY-DAT opb DOT LT
+atc_id=LY-DAT
+atc_airline=DANISH
+atc_parking_types=RAMP
+atc_parking_codes=DTR
+ui_manufacturer=Aerospatiale
+ui_type=ATR 42-500
+ui_variation=Danu Oro Transportas
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR_42-500_Danu Oro Transportas_LY-DAT_FSX.zip
+description=OSP_ATR42-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=DTR

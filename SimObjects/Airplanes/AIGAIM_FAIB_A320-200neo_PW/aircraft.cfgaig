@@ -73,60 +73,6 @@ isUserSelectable=0
 icao_airline=NKS
 
 [fltsim.2]
-title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Yellow
-model=NKS-Spirit Airlines_OC Yellow
-texture=NKS-Spirit Airlines_OC Yellow
-atc_id=N905NK
-atc_airline=SPIRIT WINGS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=NKS
-ui_manufacturer=FAIB
-ui_type=Airbus A320-200neo
-ui_variation=Spirit Airlines
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
-description=FAIB_A320-200neo_PW-PW_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=NKS
-
-[fltsim.3]
-title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Yellow no Engine Titles
-model=NKS-Spirit Airlines_OC Yellow no Engine Titles
-texture=NKS-Spirit Airlines_OC Yellow no Engine Titles
-atc_id=N908NK
-atc_airline=SPIRIT WINGS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=NKS
-ui_manufacturer=FAIB
-ui_type=Airbus A320-200neo
-ui_variation=Spirit Airlines
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
-description=FAIB_A320-200neo_PW-PW_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=NKS
-
-[fltsim.4]
-title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Yellow new Engine Titles
-model=NKS-Spirit Airlines_OC Yellow new Engine Titles
-texture=NKS-Spirit Airlines_OC Yellow new Engine Titles
-atc_id=N903NK
-atc_airline=SPIRIT WINGS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=NKS
-ui_manufacturer=FAIB
-ui_type=Airbus A320-200neo
-ui_variation=Spirit Airlines
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
-description=FAIB_A320-200neo_PW-PW_S(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=NKS
-
-[fltsim.5]
 title=AIGAIM_Air China Airbus A320-200neo
 model=CCA-Air China
 texture=CCA-Air China
@@ -144,7 +90,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CCA
 
-[fltsim.6]
+[fltsim.3]
 title=AIGAIM_LATAM Airlines Brasil Airbus A320-200neo
 model=TAM-LATAM Airlines Brasil
 texture=TAM-LATAM Airlines Brasil
@@ -161,7 +107,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=TAM
 
-[fltsim.7]
+[fltsim.4]
 title=AIGAIM_Lufthansa Airbus A320-200neo
 model=DLH-Lufthansa
 texture=DLH-Lufthansa
@@ -179,7 +125,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DLH
 
-[fltsim.8]
+[fltsim.5]
 title=AIGAIM_Lufthansa Airbus A320-200neo - IC
 model=DLH-Lufthansa_IC
 texture=DLH-Lufthansa_IC
@@ -197,7 +143,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DLH
 
-[fltsim.9]
+[fltsim.6]
 title=AIGAIM_Lufthansa Airbus A320-200neo - OC unnamed
 model=DLH-Lufthansa_OC unnamed
 texture=DLH-Lufthansa_OC unnamed
@@ -215,7 +161,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DLH
 
-[fltsim.10]
+[fltsim.7]
 title=AIGAIM_Lufthansa Airbus A320-200neo - OC unnamed First to Fly
 model=DLH-Lufthansa_OC unnamed First to Fly
 texture=DLH-Lufthansa_OC unnamed First to Fly
@@ -233,7 +179,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=DLH
 
-[fltsim.11]
+[fltsim.8]
 title=AIGAIM_S7 Airlines Airbus A320-200neo
 model=SBI-S7 Airlines
 texture=SBI-S7 Airlines
@@ -250,7 +196,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=SBI
 
-[fltsim.12]
+[fltsim.9]
 title=AIGAIM_Vueling Airbus A320-200neo - unnamed
 model=VLG-Vueling_unnamed
 texture=VLG-Vueling_unnamed
@@ -268,7 +214,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VLG
 
-[fltsim.13]
+[fltsim.10]
 title=AIGAIM_Wizz Air Airbus A320-200neo - Cockpit Frame
 model=WZZ-Wizz Air_Cockpit Frame
 texture=WZZ-Wizz Air_Cockpit Frame
@@ -286,7 +232,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=WZZ
 
-[fltsim.14]
+[fltsim.11]
 title=AIGAIM_Scoot Airbus A320-200neo
 model=TGW-Scoot
 texture=TGW-Scoot
@@ -304,7 +250,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=TGW
 
-[fltsim.15]
+[fltsim.12]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRW
 model=VOI-Volaris_PW unnamed XA-VRW
 texture=VOI-Volaris_PW unnamed XA-VRW
@@ -322,7 +268,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.16]
+[fltsim.13]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRY
 model=VOI-Volaris_PW unnamed XA-VRY
 texture=VOI-Volaris_PW unnamed XA-VRY
@@ -340,7 +286,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.17]
+[fltsim.14]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSA
 model=VOI-Volaris_PW unnamed XA-VSA
 texture=VOI-Volaris_PW unnamed XA-VSA
@@ -358,7 +304,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.18]
+[fltsim.15]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRZ
 model=VOI-Volaris_PW unnamed XA-VRZ
 texture=VOI-Volaris_PW unnamed XA-VRZ
@@ -376,7 +322,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.19]
+[fltsim.16]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Rafael
 model=VOI-Volaris_PW Rafael
 texture=VOI-Volaris_PW Rafael
@@ -394,7 +340,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.20]
+[fltsim.17]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRX
 model=VOI-Volaris_PW unnamed XA-VRX
 texture=VOI-Volaris_PW unnamed XA-VRX
@@ -412,7 +358,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.21]
+[fltsim.18]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Cien
 model=VOI-Volaris_PW Cien
 texture=VOI-Volaris_PW Cien
@@ -430,7 +376,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.22]
+[fltsim.19]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRU
 model=VOI-Volaris_PW unnamed XA-VRU
 texture=VOI-Volaris_PW unnamed XA-VRU
@@ -448,7 +394,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.23]
+[fltsim.20]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRT
 model=VOI-Volaris_PW unnamed XA-VRT
 texture=VOI-Volaris_PW unnamed XA-VRT
@@ -466,7 +412,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.24]
+[fltsim.21]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRR
 model=VOI-Volaris_PW unnamed XA-VRR
 texture=VOI-Volaris_PW unnamed XA-VRR
@@ -484,7 +430,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.25]
+[fltsim.22]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSG
 model=VOI-Volaris_PW unnamed XA-VSG
 texture=VOI-Volaris_PW unnamed XA-VSG
@@ -502,7 +448,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.26]
+[fltsim.23]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRS
 model=VOI-Volaris_PW unnamed XA-VRS
 texture=VOI-Volaris_PW unnamed XA-VRS
@@ -520,7 +466,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.27]
+[fltsim.24]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSF
 model=VOI-Volaris_PW unnamed XA-VSF
 texture=VOI-Volaris_PW unnamed XA-VSF
@@ -538,7 +484,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.28]
+[fltsim.25]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRN
 model=VOI-Volaris_PW unnamed XA-VRN
 texture=VOI-Volaris_PW unnamed XA-VRN
@@ -556,7 +502,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.29]
+[fltsim.26]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRO
 model=VOI-Volaris_PW unnamed XA-VRO
 texture=VOI-Volaris_PW unnamed XA-VRO
@@ -574,7 +520,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.30]
+[fltsim.27]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRL
 model=VOI-Volaris_PW unnamed XA-VRL
 texture=VOI-Volaris_PW unnamed XA-VRL
@@ -592,7 +538,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.31]
+[fltsim.28]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSJ
 model=VOI-Volaris_PW unnamed XA-VSJ
 texture=VOI-Volaris_PW unnamed XA-VSJ
@@ -610,7 +556,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.32]
+[fltsim.29]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSD
 model=VOI-Volaris_PW unnamed XA-VSD
 texture=VOI-Volaris_PW unnamed XA-VSD
@@ -628,7 +574,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.33]
+[fltsim.30]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VSE
 model=VOI-Volaris_PW unnamed XA-VSE
 texture=VOI-Volaris_PW unnamed XA-VSE
@@ -646,7 +592,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.34]
+[fltsim.31]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRP
 model=VOI-Volaris_PW unnamed XA-VRP
 texture=VOI-Volaris_PW unnamed XA-VRP
@@ -664,7 +610,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.35]
+[fltsim.32]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRQ
 model=VOI-Volaris_PW unnamed XA-VRQ
 texture=VOI-Volaris_PW unnamed XA-VRQ
@@ -682,7 +628,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.36]
+[fltsim.33]
 title=AIGAIM_Volaris Airbus A320-200neo - PW El Salvador
 model=VOS-Volaris_PW El Salvador
 texture=VOS-Volaris_PW El Salvador
@@ -700,7 +646,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOS
 
-[fltsim.37]
+[fltsim.34]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRK
 model=VOI-Volaris_PW unnamed XA-VRK
 texture=VOI-Volaris_PW unnamed XA-VRK
@@ -718,7 +664,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.38]
+[fltsim.35]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed N541VL
 model=VOI-Volaris_PW unnamed N541VL
 texture=VOI-Volaris_PW unnamed N541VL
@@ -736,7 +682,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.39]
+[fltsim.36]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRJ
 model=VOI-Volaris_PW unnamed XA-VRJ
 texture=VOI-Volaris_PW unnamed XA-VRJ
@@ -754,7 +700,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.40]
+[fltsim.37]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Mario
 model=VOI-Volaris_PW Mario
 texture=VOI-Volaris_PW Mario
@@ -772,7 +718,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.41]
+[fltsim.38]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRH
 model=VOI-Volaris_PW unnamed XA-VRH
 texture=VOI-Volaris_PW unnamed XA-VRH
@@ -790,7 +736,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.42]
+[fltsim.39]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed N539VL
 model=VOI-Volaris_PW unnamed N539VL
 texture=VOI-Volaris_PW unnamed N539VL
@@ -808,7 +754,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.43]
+[fltsim.40]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRF
 model=VOI-Volaris_PW unnamed XA-VRF
 texture=VOI-Volaris_PW unnamed XA-VRF
@@ -826,7 +772,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.44]
+[fltsim.41]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed N538VL
 model=VOI-Volaris_PW unnamed N538VL
 texture=VOI-Volaris_PW unnamed N538VL
@@ -844,7 +790,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.45]
+[fltsim.42]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed XA-VRE
 model=VOI-Volaris_PW unnamed XA-VRE
 texture=VOI-Volaris_PW unnamed XA-VRE
@@ -862,7 +808,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.46]
+[fltsim.43]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed N533VL
 model=VOI-Volaris_PW unnamed N533VL
 texture=VOI-Volaris_PW unnamed N533VL
@@ -880,7 +826,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.47]
+[fltsim.44]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Bruce
 model=VOI-Volaris_PW Bruce
 texture=VOI-Volaris_PW Bruce
@@ -898,7 +844,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.48]
+[fltsim.45]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Memoku
 model=VOI-Volaris_PW Memoku
 texture=VOI-Volaris_PW Memoku
@@ -916,7 +862,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.49]
+[fltsim.46]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Ghostbusters El Legado
 model=VOI-Volaris_PW Ghostbusters El Legado
 texture=VOI-Volaris_PW Ghostbusters El Legado
@@ -934,7 +880,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.50]
+[fltsim.47]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Diana
 model=VOI-Volaris_PW Diana
 texture=VOI-Volaris_PW Diana
@@ -952,7 +898,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.51]
+[fltsim.48]
 title=AIGAIM_Volaris Airbus A320-200neo - PW unnamed N529VL
 model=VOI-Volaris_PW unnamed N529VL
 texture=VOI-Volaris_PW unnamed N529VL
@@ -970,7 +916,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.52]
+[fltsim.49]
 title=AIGAIM_Volaris Airbus A320-200neo - PW Alex
 model=VOI-Volaris_PW Alex
 texture=VOI-Volaris_PW Alex
@@ -988,7 +934,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VOI
 
-[fltsim.53]
+[fltsim.50]
 title=AIGAIM_IndiGo Airbus A320-200neo - PW
 model=IGO-IndiGo_PW
 texture=IGO-IndiGo_PW
@@ -1006,7 +952,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=IGO
 
-[fltsim.54]
+[fltsim.51]
 title=AIGAIM_LATAM Airlines Chile Airbus A320-200neo
 model=LAN-LATAM Airlines Chile
 texture=LAN-LATAM Airlines Chile
@@ -1023,7 +969,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LAN
 
-[fltsim.55]
+[fltsim.52]
 title=AIGAIM_LATAM Airlines Chile Airbus A320-200neo - Chile Flag
 model=LAN-LATAM Airlines Chile_Chile Flag
 texture=LAN-LATAM Airlines Chile_Chile Flag
@@ -1040,7 +986,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LAN
 
-[fltsim.56]
+[fltsim.53]
 title=AIGAIM_LATAM Airlines Chile Airbus A320-200neo - First NEO in South America
 model=LAN-LATAM Airlines Chile_First NEO in South America
 texture=LAN-LATAM Airlines Chile_First NEO in South America
@@ -1057,7 +1003,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LAN
 
-[fltsim.57]
+[fltsim.54]
 title=AIGAIM_LATAM Airlines Peru Airbus A320-200neo - Chile Flag
 model=LPE-LATAM Airlines Peru_Chile Flag
 texture=LPE-LATAM Airlines Peru_Chile Flag
@@ -1074,7 +1020,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LPE
 
-[fltsim.58]
+[fltsim.55]
 title=AIGAIM_LATAM Airlines Peru Airbus A320-200neo - Chile Flag Avion Solidario
 model=LPE-LATAM Airlines Peru_Chile Flag Avion Solidario
 texture=LPE-LATAM Airlines Peru_Chile Flag Avion Solidario
@@ -1091,7 +1037,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LPE
 
-[fltsim.59]
+[fltsim.56]
 title=AIGAIM_West Air Airbus A320-200neo
 model=CHB-West Air
 texture=CHB-West Air
@@ -1108,7 +1054,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CHB
 
-[fltsim.60]
+[fltsim.57]
 title=AIGAIM_Viva Aerobus Airbus A320-200neo
 model=VIV-Viva Aerobus
 texture=VIV-Viva Aerobus
@@ -1125,7 +1071,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=VIV
 
-[fltsim.61]
+[fltsim.58]
 title=AIGAIM_Sichuan Airlines Airbus A320-200neo
 model=CSC-Sichuan Airlines
 texture=CSC-Sichuan Airlines
@@ -1143,7 +1089,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CSC
 
-[fltsim.62]
+[fltsim.59]
 title=AIGAIM_Shenzhen Airlines Airbus A320-200neo
 model=CSZ-Shenzhen Airlines
 texture=CSZ-Shenzhen Airlines
@@ -1161,7 +1107,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=CSZ
 
-[fltsim.63]
+[fltsim.60]
 title=AIGAIM_Qingdao Airlines Airbus A320-200neo
 model=QDA-Qingdao Airlines
 texture=QDA-Qingdao Airlines
@@ -1179,7 +1125,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=QDA
 
-[fltsim.64]
+[fltsim.61]
 title=AIGAIM_Tianjin Airlines Airbus A320-200neo
 model=GCR-Tianjin Airlines
 texture=GCR-Tianjin Airlines
@@ -1196,7 +1142,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=GCR
 
-[fltsim.65]
+[fltsim.62]
 title=AIGAIM_Aegean Airlines Airbus A320-200neo
 model=AEE-Aegean Airlines
 texture=AEE-Aegean Airlines
@@ -1211,7 +1157,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=AEE
 
-[fltsim.66]
+[fltsim.63]
 title=AIGAIM_Air Astana Airbus A320-200neo
 model=KZR-Air Astana
 texture=KZR-Air Astana
@@ -1229,7 +1175,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=KZR
 
-[fltsim.67]
+[fltsim.64]
 title=AIGAIM_Air Astana Airbus A320-200neo - OC
 model=KZR-Air Astana_OC
 texture=KZR-Air Astana_OC
@@ -1247,7 +1193,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=KZR
 
-[fltsim.68]
+[fltsim.65]
 title=AIGAIM_Go First Airbus A320-200neo - OC
 model=GOW-Go First_OC
 texture=GOW-Go First_OC
@@ -1264,7 +1210,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=GOW
 
-[fltsim.69]
+[fltsim.66]
 title=AIGAIM_HK Express Airbus A320-200neo
 model=HKE-HK Express
 texture=HKE-HK Express
@@ -1281,7 +1227,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=HKE
 
-[fltsim.70]
+[fltsim.67]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWJ Colibri de Arica
 model=JAT-JetSmart_CC-AWJ Colibri de Arica
 texture=JAT-JetSmart_CC-AWJ Colibri de Arica
@@ -1299,7 +1245,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.71]
+[fltsim.68]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWK Flamenco de James
 model=JAT-JetSmart_CC-AWK Flamenco de James
 texture=JAT-JetSmart_CC-AWK Flamenco de James
@@ -1317,7 +1263,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.72]
+[fltsim.69]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWL Buho Magallanico
 model=JAT-JetSmart_CC-AWL Buho Magallanico
 texture=JAT-JetSmart_CC-AWL Buho Magallanico
@@ -1335,7 +1281,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.73]
+[fltsim.70]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWN Carpintero Negro
 model=JAT-JetSmart_CC-AWN Carpintero Negro
 texture=JAT-JetSmart_CC-AWN Carpintero Negro
@@ -1353,7 +1299,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.74]
+[fltsim.71]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWO Tortuga Verde
 model=JAT-JetSmart_CC-AWO Tortuga Verde
 texture=JAT-JetSmart_CC-AWO Tortuga Verde
@@ -1371,7 +1317,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.75]
+[fltsim.72]
 title=AIGAIM_JetSmart Airbus A320-200neo - CC-AWQ Carancho
 model=JAT-JetSmart_CC-AWQ Carancho
 texture=JAT-JetSmart_CC-AWQ Carancho
@@ -1389,7 +1335,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=JAT
 
-[fltsim.76]
+[fltsim.73]
 title=AIGAIM_Cebu Pacific Airbus A320-200neo
 model=CEB-Cebu Pacific
 texture=CEB-Cebu Pacific
@@ -1406,3 +1352,93 @@ description=FAIB_A320-200neo_PW-PW_S(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=CEB
+
+[fltsim.74]
+title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC
+model=NKS-Spirit Airlines_OC
+texture=NKS-Spirit Airlines_OC
+atc_id=N915NK
+atc_airline=SPIRIT WINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=NKS
+ui_manufacturer=FAIB
+ui_type=Airbus A320-200neo
+ui_variation=Spirit Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
+description=FAIB_A320-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=NKS
+
+[fltsim.75]
+title=AIGAIM_Spirit Airlines Airbus A320-200neo - Wifi
+model=NKS-Spirit Airlines_Wifi
+texture=NKS-Spirit Airlines_Wifi
+atc_id=N935NK
+atc_airline=SPIRIT WINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=NKS
+ui_manufacturer=FAIB
+ui_type=Airbus A320-200neo
+ui_variation=Spirit Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
+description=FAIB_A320-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=NKS
+
+[fltsim.76]
+title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Wifi
+model=NKS-Spirit Airlines_OC Wifi
+texture=NKS-Spirit Airlines_OC Wifi
+atc_id=N912NK
+atc_airline=SPIRIT WINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=NKS
+ui_manufacturer=FAIB
+ui_type=Airbus A320-200neo
+ui_variation=Spirit Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
+description=FAIB_A320-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=NKS
+
+[fltsim.77]
+title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Wifi new engine titles
+model=NKS-Spirit Airlines_OC Wifi new engine titles
+texture=NKS-Spirit Airlines_OC Wifi new engine titles
+atc_id=N908NK
+atc_airline=SPIRIT WINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=NKS
+ui_manufacturer=FAIB
+ui_type=Airbus A320-200neo
+ui_variation=Spirit Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
+description=FAIB_A320-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=NKS
+
+[fltsim.78]
+title=AIGAIM_Spirit Airlines Airbus A320-200neo - OC Wifi no engine logo
+model=NKS-Spirit Airlines_OC Wifi no engine logo
+texture=NKS-Spirit Airlines_OC Wifi no engine logo
+atc_id=N910NK
+atc_airline=SPIRIT WINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=NKS
+ui_manufacturer=FAIB
+ui_type=Airbus A320-200neo
+ui_variation=Spirit Airlines
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: KAIW2 Filename: faib_nks_a320n_jkm.zip
+description=FAIB_A320-200neo_PW-PW_S(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=NKS

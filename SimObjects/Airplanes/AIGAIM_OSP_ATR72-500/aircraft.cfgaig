@@ -1079,23 +1079,6 @@ isUserSelectable=0
 icao_airline=CUB
 
 [fltsim.57]
-title=AIGAIM_Danish Air Transport ATR 72-500 - White
-model=DTR-Danish Air Transport_White
-texture=DTR-Danish Air Transport_White
-atc_id=SE-MDC
-atc_airline=DANISH
-atc_parking_types=GATE,RAMP
-atc_parking_codes=DTR
-ui_manufacturer=Aerospatiale
-ui_type=ATR 72-500
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 72-500_Danish Air Transport_2021_FSX.zip
-description=OSP_ATR72-500(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=DTR
-
-[fltsim.58]
 title=AIGAIM_Firefly ATR 72-500
 model=FFM-Firefly
 texture=FFM-Firefly
@@ -1107,31 +1090,13 @@ ui_manufacturer=OSP ATR
 ui_type=ATR 72-500
 ui_variation=FlyFirefly Sdn Bhd,
 ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: ATR_72-500 Firefly.zip
+ui_createdby=Provided by: JB Filename: ATR 72-500 Firefly.zip
 description=OSP_ATR72-500(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=FFM
 
-[fltsim.59]
-title=AIGAIM_Firefly ATR 72-500 - Fantasia Aquapark
-model=FFM-Firefly_Fantasia Aquapark
-texture=FFM-Firefly_Fantasia Aquapark
-atc_id=9M-FYA
-atc_airline=FIREFLY
-atc_parking_types=RAMP
-atc_parking_codes=FFM
-ui_manufacturer=OSP ATR
-ui_type=ATR 72-500
-ui_variation=FlyFirefly Sdn Bhd,
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: ATR_72-500 Firefly.zip
-description=OSP_ATR72-500(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=FFM
-
-[fltsim.60]
+[fltsim.58]
 title=AIGAIM_FlyCAA ATR 72-500
 model=REB-FlyCAA
 texture=REB-FlyCAA
@@ -1148,7 +1113,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=REB
 
-[fltsim.61]
+[fltsim.59]
 title=AIGAIM_Hi Air ATR 72-500 - blue
 model=HGG-Hi Air_blue
 texture=HGG-Hi Air_blue
@@ -1166,7 +1131,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=HGG
 
-[fltsim.62]
+[fltsim.60]
 title=AIGAIM_Hi Air ATR 72-500 - pink
 model=HGG-Hi Air_pink
 texture=HGG-Hi Air_pink
@@ -1184,7 +1149,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=HGG
 
-[fltsim.63]
+[fltsim.61]
 title=AIGAIM_Iran Aseman Airlines ATR 72-500
 model=IRC-Iran Aseman Airlines
 texture=IRC-Iran Aseman Airlines
@@ -1202,7 +1167,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=IRC
 
-[fltsim.64]
+[fltsim.62]
 title=AIGAIM_Israir Airlines ATR 72-500
 model=ISR-Israir Airlines
 texture=ISR-Israir Airlines
@@ -1220,7 +1185,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=ISR
 
-[fltsim.65]
+[fltsim.63]
 title=AIGAIM_Lao Airlines ATR 72-500 - white belly (TEMP)
 model=LAO-Lao Airlines_white belly_temp
 texture=LAO-Lao Airlines_white belly_temp
@@ -1238,7 +1203,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=LAO
 
-[fltsim.66]
+[fltsim.64]
 title=AIGAIM_MAP Linhas Aereas ATR 72-500
 model=PAM-MAP Linhas Aereas
 texture=PAM-MAP Linhas Aereas
@@ -1257,25 +1222,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=PAM
 
-[fltsim.67]
-title=AIGAIM_MASwings ATR 72-500
-model=MWG-MASwings
-texture=MWG-MASwings
-atc_id=9M-MWE
-atc_airline=MASWINGS
-atc_parking_types=GATE,RAMP
-atc_parking_codes=MWG
-ui_manufacturer=OSP
-ui_type=ATR 72-500
-ui_variation=MASwings Sdn. Berhad
-ui_typerole=Commercial Airliner
-ui_createdby=Provided by: JB Filename: ATR72 MASWings.zip
-description=OSP_ATR72-500(fs20)
-isAirTraffic=1
-isUserSelectable=0
-icao_airline=MWG
-
-[fltsim.68]
+[fltsim.65]
 title=AIGAIM_MASwings ATR 72-500 - Negaraku
 model=MWG-MASwings_Negaraku
 texture=MWG-MASwings_Negaraku
@@ -1293,7 +1240,7 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=MWG
 
-[fltsim.69]
+[fltsim.66]
 title=AIGAIM_MASwings ATR 72-500 - OC
 model=MWG-MASwings_OC
 texture=MWG-MASwings_OC
@@ -1311,11 +1258,65 @@ isAirTraffic=1
 isUserSelectable=0
 icao_airline=MWG
 
+[fltsim.67]
+title=AIGAIM_Firefly ATR 72-500 - Cuti Cuti Malaysia
+model=FFM-Firefly_Cuti Cuti Malaysia
+texture=FFM-Firefly_Cuti Cuti Malaysia
+atc_id=9M-FYD
+atc_airline=FIREFLY
+atc_parking_types=RAMP
+atc_parking_codes=FFM
+ui_manufacturer=OSP ATR
+ui_type=ATR 72-500
+ui_variation=FlyFirefly Sdn Bhd,
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: ATR 72-500 Firefly.zip
+description=OSP_ATR72-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=FFM
+
+[fltsim.68]
+title=AIGAIM_Firefly ATR 72-500 - Jom Jalan
+model=FFM-Firefly_Jom Jalan
+texture=FFM-Firefly_Jom Jalan
+atc_id=9M-FYJ
+atc_airline=FIREFLY
+atc_parking_types=RAMP
+atc_parking_codes=FFM
+ui_manufacturer=OSP ATR
+ui_type=ATR 72-500
+ui_variation=FlyFirefly Sdn Bhd,
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: ATR 72-500 Firefly.zip
+description=OSP_ATR72-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=FFM
+
+[fltsim.69]
+title=AIGAIM_MASwings ATR 72-500 - Cuti Cuti Malaysia
+model=MWG-MASwings_Cuti Cuti Malaysia
+texture=MWG-MASwings_Cuti Cuti Malaysia
+atc_id=9M-MWG
+atc_airline=MASWINGS
+atc_parking_types=GATE,RAMP
+atc_parking_codes=MWG
+ui_manufacturer=OSP
+ui_type=ATR 72-500
+ui_variation=MASwings Sdn. Berhad
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: JB Filename: ATR72 MASWings.zip
+description=OSP_ATR72-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=MWG
+
 [fltsim.70]
-title=AIGAIM_MASwings ATR 72-500 - OC Wings of Love
-model=MWG-MASwings_OC Wings of Love
-texture=MWG-MASwings_OC Wings of Love
-atc_id=9M-MWA
+title=AIGAIM_MASwings ATR 72-500 - Negaraku Sarawak
+model=MWG-MASwings_Negaraku Sarawak
+texture=MWG-MASwings_Negaraku Sarawak
+atc_id=9M-MWF
 atc_airline=MASWINGS
 atc_parking_types=GATE,RAMP
 atc_parking_codes=MWG
@@ -1330,10 +1331,10 @@ isUserSelectable=0
 icao_airline=MWG
 
 [fltsim.71]
-title=AIGAIM_MASwings ATR 72-500 - OC Negaraku
-model=MWG-MASwings_OC Negaraku
-texture=MWG-MASwings_OC Negaraku
-atc_id=9M-MWC
+title=AIGAIM_MASwings ATR 72-500 - Sarawak
+model=MWG-MASwings_Sarawak
+texture=MWG-MASwings_Sarawak
+atc_id=9M-MWD
 atc_airline=MASWINGS
 atc_parking_types=GATE,RAMP
 atc_parking_codes=MWG
@@ -1346,3 +1347,20 @@ description=OSP_ATR72-500(fs20)
 isAirTraffic=1
 isUserSelectable=0
 icao_airline=MWG
+
+[fltsim.72]
+title=AIGAIM_Danish Air Transport ATR 72-500 - SE-MDC 'All White'
+model=DTR-Danish Air Transport_SE-MDC 'All White'
+texture=DTR-Danish Air Transport_SE-MDC 'All White'
+atc_id=SE-MDC
+atc_airline=DANISH
+atc_parking_types=GATE,RAMP
+atc_parking_codes=DTR
+ui_manufacturer=Aerospatiale
+ui_type=ATR 72-500
+ui_typerole=Commercial Airliner
+ui_createdby=Provided by: Dennis Lyng Desezar on JCAI Filename: OSP_ATR 72-500_Danish Air Transport_2021_FSX.zip
+description=OSP_ATR72-500(fs20)
+isAirTraffic=1
+isUserSelectable=0
+icao_airline=DTR
